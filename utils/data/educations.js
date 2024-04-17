@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2017 - 2020",
+    institution: "Thadomal Shahani Engineering College",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Diploma",
+    duration: "2014 - 2017",
+    institution: "Vivekanand Education Society's Polytechnic",
   },
   {
     id: 3,
     title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    duration: "2003 - 2014",
+    institution: "Fatima High School",
   }
 ]
