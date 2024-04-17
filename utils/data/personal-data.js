@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Mumbai, Maharashtra, India',
   github: 'https://github.com/piyushkukreja',
   facebook: 'https://www.facebook.com/piyushkukreja97/',
-  linkedIn: 'linkedin.com/in/kukrejapiyush/',
+  linkedIn: 'https://www.linkedin.com/in/kukrejapiyush/',
   twitter: 'https://twitter.com/piyushkukreja97',
   stackOverflow: 'https://stackexchange.com/users/31519735/piyush-kukreja',
   leetcode: "https://leetcode.com/piyush_kukreja/",
