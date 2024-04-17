@@ -9,7 +9,7 @@ import './css/globals.scss';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Portfolio of Piyush Kukreja',
+  title: 'Piyush Kukreja',
   description: 'Hi there! I\'m Piyush Kukreja, a full-stack developer from India. I love building things with code and learning new stuff every day. Whether it\'s working alone or with others, I\'m always up for a challenge. Let\'s make cool things together!',
 }
 

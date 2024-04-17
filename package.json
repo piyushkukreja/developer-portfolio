@@ -1,9 +1,11 @@
 {
+  "homepage": "https://piyushkukreja.github.io/developer-portfolio",
   "name": "developer-portfolio",
   "description": "Portfolio of Piyush Kukreja",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "deploy": "npm run build && gh-pages -d .next",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -24,6 +26,7 @@
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
+    "gh-pages": "^6.1.1",
     "postcss": "latest",
     "sass": "^1.69.5",
     "tailwindcss": "latest"
