@@ -1,6 +1,6 @@
 export const contactsData = {
     email: 'developer.piyushkukreja@gmail.com',
-    phone: '+919699401124',
+    phone: '+919209181182',
     address: 'Mumbai, Maharashtra, India',
     github: 'https://github.com/piyushkukreja',
     facebook: 'https://www.facebook.com/piyushkukreja97/',

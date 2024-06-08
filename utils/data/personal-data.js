@@ -4,7 +4,7 @@ export const personalData = {
   designation: "Software Developer",
   description: "Hi there! I\'m Piyush Kukreja, a full-stack developer from India. I love building things with code and learning new stuff every day. Whether it\'s working alone or with others, I\'m always up for a challenge. Let\'s make cool things together!",
   email: 'developer.piyushkukreja@gmail.com',
-  phone: '+919699401124',
+  phone: '+919209181182',
   address: 'Mumbai, Maharashtra, India',
   github: 'https://github.com/piyushkukreja',
   facebook: 'https://www.facebook.com/piyushkukreja97/',
@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: 'https://stackexchange.com/users/31519735/piyush-kukreja',
   leetcode: "https://leetcode.com/piyush_kukreja/",
   devUsername: "piyushkukreja",
-  resume: "https://drive.google.com/file/d/1w5q52ZO_8Q0XoCwk5MJW5_AXPh89P-Qg/view?usp=drive_linkss"
+  resume: "https://drive.google.com/file/d/1t7UpDkSWT6RFb-2Mz03L6yMasHZBFxBN/view?usp=sharing"
 }
